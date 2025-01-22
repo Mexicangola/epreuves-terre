@@ -1,0 +1,1 @@
+this are the first excerices i did in Java.
